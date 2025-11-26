@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trait_7/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Generics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Trait_7/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
